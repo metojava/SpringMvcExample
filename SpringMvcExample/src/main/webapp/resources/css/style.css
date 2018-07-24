@@ -1,0 +1,41 @@
+#main {
+	width: 880px;
+	margin: 0 auto;
+}
+
+#empForm{
+	top: 20px;
+	padding: 10px;
+	margin: auto;
+	width: 50%;
+}
+
+#custForm{
+	top: 20px;
+	padding: 10px;
+	margin: auto;
+	width: 50%;
+}
+
+#accForm{
+	top: 20px;
+	padding: 10px;
+	margin: auto;
+	width: 50%;
+}
+
+.error {
+	color: red;
+}
+
+thead tr {
+	background: #aabbcc;
+}
+
+tr.even {
+	background: #fbfbfb;
+}
+
+tr.odd {
+	background: #bcbcbc;
+}
